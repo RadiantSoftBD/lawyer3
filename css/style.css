@@ -3075,3 +3075,11 @@ h3 {
 	padding-top: 14em;
 }
 }
+.navbar-brand img{
+	height: 7rem;
+	margin-top: -11px;
+}
+.footer-lwf h3.footer-logo {
+    margin-bottom: 20px;
+    width: 40%;
+}
